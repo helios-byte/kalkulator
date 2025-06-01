@@ -46,7 +46,6 @@ lib/
 
 ## 💡 To Do
 
-- [ ] Tambah dukungan tema gelap/terang
 - [ ] Fitur riwayat perhitungan
 - [ ] Perhitungan ilmiah (trigonometri, log, eksponen, dll)
 - [ ] Uji coba unit test
@@ -63,10 +62,13 @@ Kontribusi terbuka lebar! Silakan buat pull request atau buka issue jika ada sar
 4. Push ke branch: `git push origin fitur-anda`
 5. Buat pull request
 
-## 📄 Lisensi
+##  video
 
-Proyek ini dilisensikan di bawah [MIT License](LICENSE).
+
+
+https://github.com/user-attachments/assets/a6ad2ce5-4502-4e92-a2d5-fc31db4fab06
+
+
 
 ## 👨‍💻 Pembuat
-
-Made with ❤️ by [helios-byte](https://github.com/helios-byte)
+Bambang Hokito XI RPL 2 06
