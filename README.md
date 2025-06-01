@@ -1,16 +1,72 @@
-# kitoter
+# 🧮 Kitoter - Kalkulator Flutter
 
-A new Flutter project.
+**Kitoter** adalah aplikasi kalkulator lintas platform yang dibuat menggunakan [Flutter](https://flutter.dev/). Aplikasi ini ditujukan untuk menjadi kalkulator sederhana namun fungsional, yang bisa berjalan di Android, iOS, web, desktop (Windows, macOS, Linux), dan lainnya.
 
-## Getting Started
+## ✨ Fitur Utama
 
-This project is a starting point for a Flutter application.
+- 🔢 Operasi Matematika Dasar (Tambah, Kurang, Kali, Bagi)
+- 📱 UI responsif yang mendukung berbagai ukuran layar
+- 💻 Kompatibel di Android, iOS, Web, Windows, Linux, dan macOS
+- 🌐 Dibangun dengan Flutter terbaru
 
-A few resources to get you started if this is your first Flutter project:
+## 📸 Cuplikan Layar
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+> *(Tambahkan gambar/gif jika ada untuk menampilkan antarmuka aplikasi)*
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🚀 Instalasi
+
+### 1. Clone repositori
+
+```bash
+git clone https://github.com/helios-byte/kalkulator.git
+cd kalkulator
+```
+
+### 2. Install dependensi
+
+```bash
+flutter pub get
+```
+
+### 3. Jalankan aplikasinya
+
+```bash
+flutter run
+```
+
+> Anda dapat memilih platform target sesuai dengan perangkat Anda (mobile, web, desktop).
+
+## 🛠 Struktur Direktori
+
+```
+lib/
+ └── main.dart       # Titik masuk aplikasi
+ └── calculator.dart # (jika ada) logika kalkulator
+```
+
+## 💡 To Do
+
+- [ ] Tambah dukungan tema gelap/terang
+- [ ] Fitur riwayat perhitungan
+- [ ] Perhitungan ilmiah (trigonometri, log, eksponen, dll)
+- [ ] Uji coba unit test
+
+## 🤝 Kontribusi
+
+Kontribusi terbuka lebar! Silakan buat pull request atau buka issue jika ada saran atau bug.
+
+### Cara kontribusi:
+
+1. Fork repositori ini
+2. Buat branch baru: `git checkout -b fitur-anda`
+3. Commit perubahan: `git commit -m 'Menambahkan fitur baru'`
+4. Push ke branch: `git push origin fitur-anda`
+5. Buat pull request
+
+## 📄 Lisensi
+
+Proyek ini dilisensikan di bawah [MIT License](LICENSE).
+
+## 👨‍💻 Pembuat
+
+Made with ❤️ by [helios-byte](https://github.com/helios-byte)
